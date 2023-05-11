@@ -11,6 +11,9 @@ public class Pull_request_Jose_Eag {
         double num1,num2,suma;
         
         System.out.println("Hola soy Andrés");
+        System.out.println("Hola yo soy jose");
+        
+=======
         System.out.println("Te hago la siguiente mejora en tu codigo:");
         System.out.println("-----------------------------------------"
                 + "\nIntroduce 2 numeros y haré la suma");
