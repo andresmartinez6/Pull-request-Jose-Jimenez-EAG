@@ -10,6 +10,8 @@ public class Pull_request_Jose_Eag {
         
         
         System.out.println("Hola soy Andrés");
+        System.out.println("Hola yo soy jose");
+        
     }
     
 }
